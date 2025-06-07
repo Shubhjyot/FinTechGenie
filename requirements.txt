@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+pinecone-client
+sentence-transformers
+pydantic
+python-multipart
+pandas
+numpy
+pytest
+httpx
+aiohttp
